@@ -1,7 +1,6 @@
-[![MasterHead](https://i.pinimg.com/originals/d1/1f/7c/d11f7cc143822554caf1a04ccfcd5592.gif]
 <h1 align="center">Hi 👋, I'm Parthiban</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding"  width="400" src="https://cdn.pixabay.com/animation/2023/05/25/09/35/09-35-39-25_512.gif">
+<img align="right" alt="coding"  width="100" src="https://cdn.pixabay.com/animation/2023/05/25/09/35/09-35-39-25_512.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justparthi&label=Profile%20views&color=0e75b6&style=flat" alt="justparthi" /> </p>
 
