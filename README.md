@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Real time projects**
 
-- 💬 Ask me about **Postgres, Ejs, etc...**
+- 💬 Ask me about **Postgres, React, etc...**
 
 - 📫 How to reach me **justparthiban@gmail.com**
 
