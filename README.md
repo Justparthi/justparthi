@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Upgrading my skills**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **....**
 
 - 👯 I’m looking to collaborate on **Real time projects**
 
