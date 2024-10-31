@@ -98,7 +98,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" alt="vagrant logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>&nbsp;&nbsp;
+</div>&nbsp;&nbsp; <br/>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justparthi&show_icons=true&locale=en&layout=compact" alt="justparthi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justparthi&show_icons=true&locale=en" alt="justparthi" /></p>
