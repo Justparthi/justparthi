@@ -99,7 +99,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justparthi&show_icons=true&locale=en&layout=compact" alt="justparthi" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justparthi&show_icons=true&locale=en&layout=compact" alt="justparthi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justparthi&show_icons=true&locale=en" alt="justparthi" /></p>
 
