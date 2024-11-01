@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Upgrading my skills**
+- 🔭 I’m currently working on **Bamboo Chat (Muti User realtime Chat Room)**
 
 - 🌱 I’m currently learning **....**
 
