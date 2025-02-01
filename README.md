@@ -1,10 +1,9 @@
 <div align="center">
-  <h1>Hello World! I'm Parthiban 🚀</h1>
+  <h1 style="font-family: 'Inter', sans-serif; font-weight: 600;">Hello World! I'm Parthiban 🚀</h1>
 </div>
 
+<h3 style="font-family: 'Inter', sans-serif; font-weight: 500;">🧑‍💻 About Me</h3>
 
-
-### 🧑‍💻 About Me
 ```javascript
 const parthiban = {
     location: "India",
@@ -16,7 +15,8 @@ const parthiban = {
 
 <br/>
 
-### ⚡ Tech Arsenal 
+<h3 style="font-family: 'Inter', sans-serif; font-weight: 500;">⚡ Tech Arsenal</h3>
+
 <div align="center">
 
 ```mermaid
@@ -38,7 +38,8 @@ mindmap
 
 </div>
 
-### 🌐 Connect with Me
+<h3 style="font-family: 'Inter', sans-serif; font-weight: 500;">🌐 Connect with Me</h3>
+
 <div align="center">
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
@@ -51,7 +52,8 @@ mindmap
   </a>
 </div>
 
-### 📊 GitHub Stats
+<h3 style="font-family: 'Inter', sans-serif; font-weight: 500;">📊 GitHub Stats</h3>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=justparthi&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
   <br/>
@@ -61,5 +63,5 @@ mindmap
 ---
 
 <div align="center">
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  <i style="font-family: 'Inter', sans-serif; font-weight: 300;">⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </div>
