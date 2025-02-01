@@ -33,6 +33,8 @@ mindmap
     Backend
       Node.js
       Express
+      Django
+      Flasks
     Tools
       Git
       VS Code
