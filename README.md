@@ -1,20 +1,39 @@
-<h1 align="center">Hi 👋, I'm Parthiban</h1>
-<h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding"  width="100" src="https://cdn.pixabay.com/animation/2023/05/25/09/35/09-35-39-25_512.gif"
+<h2 align="left">Hi there! I'm Parthiban 👋</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=justparthi&label=Profile%20views&color=0e75b6&style=flat" alt="justparthi" /> </p>
+I'm a passionate Web Developer from India who loves crafting digital experiences.
 
+### 💫 About Me
+- 🌱 Building web experiences with modern technologies
+- 💡 Always learning and exploring new tools
+- 🎯 Goal-oriented developer focused on creating impactful solutions
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Tech Stack
+```javascript
+{
+  "languages": ["JavaScript", "HTML", "CSS"],
+  "frontend": ["React", "Next.js", "Tailwind CSS"],
+  "backend": ["Node.js", "Express"],
+  "tools": ["Git", "VS Code", "Figma"]
+}
+```
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+### 📫 Let's Connect
+<div align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+  </a>
 </div>
 
-<p align="left">
-</p>
-<br>
+### 📊 GitHub Stats
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=justparthi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
 
+---
+
+<p align="center">
+  <i>Let's create something amazing together!</i>
+</p>
