@@ -1,11 +1,11 @@
 <div align="center">
-  <h1 style="font-family: 'Fira Code', monospace; font-weight: 600;">Hello World! I'm Parthiban 🚀</h1>
+  <h1 style="font-family: 'Poppins', sans-serif; font-weight: 600;">Hello World! I'm Parthiban 🚀</h1>
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=justparthi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
   </p>
 </div>
 
-<h3 style="font-family: 'Fira Code', monospace; font-weight: 500;">🧑‍💻 About Me</h3>
+<h3 style="font-family: 'Poppins', sans-serif; font-weight: 500;">🧑‍💻 About Me</h3>
 
 ```javascript
 const parthiban = {
@@ -16,9 +16,7 @@ const parthiban = {
 };
 ```
 
-<br/>
-
-<h3 style="font-family: 'Fira Code', monospace; font-weight: 500;">⚡ Tech Arsenal</h3>
+<h3 style="font-family: 'Poppins', sans-serif; font-weight: 500;">⚡ Tech Arsenal</h3>
 
 <div align="center">
 
@@ -49,7 +47,7 @@ mindmap
 
 </div>
 
-<h3 style="font-family: 'Fira Code', monospace; font-weight: 500;">🌐 Connect with Me</h3>
+<h3 style="font-family: 'Poppins', sans-serif; font-weight: 500;">🌐 Connect with Me</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/parthiban-s-a5b59224b">
@@ -63,7 +61,7 @@ mindmap
   </a>
 </div>
 
-<h3 style="font-family: 'Fira Code', monospace; font-weight: 500;">📊 GitHub Stats</h3>
+<h3 style="font-family: 'Poppins', sans-serif; font-weight: 500;">📊 GitHub Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=justparthi&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
@@ -74,5 +72,4 @@ mindmap
 ---
 
 <div align="center">
-  <i style="font-family: 'Fira Code', monospace; font-weight: 300;">⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-</div>
+  <i style="font-family: 'Poppins', sans-serif; font-weight: 300;">⚡ "Code is like humor. When you have to explain it, it's bad." – Cory Hous
