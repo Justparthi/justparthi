@@ -35,6 +35,11 @@ mindmap
       Express
       Django
       Flasks
+    Databse
+      PostgreSqL
+      Firebase
+      Supabase
+      MangoDB
     Tools
       Git
       VS Code
