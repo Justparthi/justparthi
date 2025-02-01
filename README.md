@@ -3,13 +3,10 @@
   <h3>A Passionate Web Developer from India</h3>
 </div>
 
-<img align="right" src="https://cdn.pixabay.com/animation/2023/05/25/09/35/09-35-39-25_512.gif" width="150" alt="coding animation"/>
-
-<div align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=justparthi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</div>
-
-<br/>
+  <img align="right" src="https://cdn.pixabay.com/animation/2023/05/25/09/35/09-35-39-25_512.gif" width="150" alt="coding animation"/>
+</p>
 
 ### 🧑‍💻 About Me
 ```javascript
@@ -20,6 +17,8 @@ const parthiban = {
     funFact: "I love turning coffee into code ☕"
 };
 ```
+
+<br/>
 
 ### ⚡ Tech Arsenal 
 <div align="center">
