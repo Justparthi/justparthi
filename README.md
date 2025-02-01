@@ -1,39 +1,72 @@
-<h2 align="left">Hi there! I'm Parthiban 👋</h2>
+<div align="center">
+  <h1>Hello World! I'm Parthiban 🚀</h1>
+  <h3>A Passionate Web Developer from India</h3>
+</div>
 
-I'm a passionate Web Developer from India who loves crafting digital experiences.
+<div align="center">
+  <img src="https://cdn.pixabay.com/animation/2023/05/25/09/35/09-35-39-25_512.gif" width="300" alt="coding animation"/>
+</div>
 
-### 💫 About Me
-- 🌱 Building web experiences with modern technologies
-- 💡 Always learning and exploring new tools
-- 🎯 Goal-oriented developer focused on creating impactful solutions
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=justparthi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</div>
 
-### 🛠️ Tech Stack
+<br/>
+
+### 🧑‍💻 About Me
 ```javascript
-{
-  "languages": ["JavaScript", "HTML", "CSS"],
-  "frontend": ["React", "Next.js", "Tailwind CSS"],
-  "backend": ["Node.js", "Express"],
-  "tools": ["Git", "VS Code", "Figma"]
-}
+const parthiban = {
+    location: "India",
+    role: "Web Developer",
+    currentFocus: "Building amazing web experiences",
+    funFact: "I love turning coffee into code ☕"
+};
 ```
 
-### 📫 Let's Connect
-<div align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+### ⚡ Tech Arsenal 
+<div align="center">
+
+```mermaid
+mindmap
+  root((Skills))
+    Frontend
+      HTML5
+      CSS3
+      JavaScript
+      React
+    Backend
+      Node.js
+      Express
+    Tools
+      Git
+      VS Code
+      Figma
+```
+
+</div>
+
+### 🌐 Connect with Me
+<div align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+  <a href="YOUR_YOUTUBE_URL">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+  </a>
+  <a href="YOUR_TWITTER_URL">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
 </div>
 
 ### 📊 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=justparthi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justparthi&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=justparthi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 </div>
 
 ---
 
-<p align="center">
-  <i>Let's create something amazing together!</i>
-</p>
+<div align="center">
+  <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+</div>
