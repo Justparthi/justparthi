@@ -35,7 +35,7 @@ mindmap
       Express
       Django
       Flasks
-    Databse
+    Databases
       PostgreSqL
       Firebase
       Supabase
@@ -44,6 +44,7 @@ mindmap
       Git
       VS Code
       Figma
+      
 ```
 
 </div>
