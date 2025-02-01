@@ -28,7 +28,8 @@ mindmap
       HTML5
       CSS3
       JavaScript
-      React
+      Next Js
+      React Js
     Backend
       Node.js
       Express
