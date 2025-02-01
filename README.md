@@ -1,5 +1,8 @@
 <div align="center">
   <h1 style="font-family: 'Inter', sans-serif; font-weight: 600;">Hello World! I'm Parthiban 🚀</h1>
+  <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=justparthi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+
 </div>
 
 <h3 style="font-family: 'Inter', sans-serif; font-weight: 500;">🧑‍💻 About Me</h3>
