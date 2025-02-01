@@ -6,19 +6,6 @@
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Bamboo Chat (Muti User realtime Chat Room)**
-
-- 🌱 I’m currently learning **....**
-
-- 👯 I’m looking to collaborate on **Real time projects**
-
-- 💬 Ask me about **Postgres, React, Django etc...**
-
-- 📫 How to reach me **justparthiban@gmail.com**
-
-- ⚡ Fun fact **The longest English word you can type using only the top row of letters on a keyboard is "typewriter"?**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
