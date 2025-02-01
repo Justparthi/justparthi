@@ -2,6 +2,8 @@
   <h1>Hello World! I'm Parthiban 🚀</h1>
 </div>
 
+
+<br/>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=justparthi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
   <img align="right" src="https://cdn.pixabay.com/animation/2023/05/25/09/35/09-35-39-25_512.gif" width="150" alt="coding animation"/>
