@@ -50,10 +50,10 @@ mindmap
 <h3 style="font-family: 'Poppins', sans-serif; font-weight: 500;">🌐 Connect with Me</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/parthiban-s-a5b59224b">
+  <a href="https://www.linkedin.com/in/justparthi">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://parthibanportfolio-1.netlify.app/">
+  <a href="https://parthiban.in">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=safari&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio site" />
   </a>
   <a href="https://www.notion.so/A-Passionate-Web-Developer-59c0eb91557a4f24a6ac3272d7c72abc/">
