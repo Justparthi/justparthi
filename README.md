@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hello World! I'm Parthiban 🚀</h1>
-  <h3>A Passionate Web Developer from India</h3>
 </div>
 
 <p align="left">
