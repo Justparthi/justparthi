@@ -32,7 +32,7 @@ mindmap
       Node.js
       Express
       Django
-      Flasks
+      Flask
     Databases
       PostgreSqL
       Firebase
