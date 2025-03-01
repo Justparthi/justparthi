@@ -1,67 +1,133 @@
-# 👋 Hello, I'm Parthiban
-
-> Full-stack developer crafting exceptional web experiences
-
-## 💫 About Me
-
-```javascript
-const parthiban = {
-  location: "India",
-  profession: "App & Web Developer",
-  focus: "Building intuitive, high-performance applications",
-  passions: ["Clean code", "User-centered design", "Continuous learning"],
-  currentlyExploring: "Advanced React patterns and serverless architectures"
-};
-```
-
-## 🚀 Tech Stack
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3>Frontend</h3>
-      <div align="center">  
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3>Backend</h3>
-      <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask"/>
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3>Database & Tools</h3>
-      <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
-      </div>
-    </td>
-  </tr>
-</table>
-
-## 📈 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=justparthi&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Parthiban's GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justparthi&theme=dark&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="Parthiban's GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justparthi&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Parthiban's Top Languages" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Hello%2C+I'm+Parthiban;Full-Stack+Developer;UI%2FUX+Enthusiast;Problem+Solver;Coffee+%E2%98%95+Coder" alt="Typing SVG" />
 </div>
 
-## 🌐 Connect With Me
+<!-- Animated wave -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> <strong>Building digital experiences that matter</strong>
+</div>
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+
+```javascript
+class Developer {
+  constructor() {
+    this.name = "Parthiban";
+    this.location = "India";
+    this.role = "Full-Stack Developer";
+    this.languages = ["JavaScript", "TypeScript", "Python", "HTML", "CSS"];
+    this.challenge = "Building something new every week";
+    this.funFact = "I debug with console.log and refuse to believe there's a better way";
+  }
+
+  sayHi() {
+    return "Thanks for dropping by, hope you find some of my work interesting!";
+  }
+}
+
+const me = new Developer();
+console.log(me.sayHi());
+```
+
+<details>
+<summary>🔎 More about me...</summary>
+<br>
+When I'm not coding, you'll find me exploring tech blogs, experimenting with new frameworks, or occasionally touching grass. I believe in writing clean, maintainable code and creating user experiences that delight.
+
+My development philosophy:
+- 💡 Simple solutions to complex problems
+- 🧪 Test-driven when necessary, coffee-driven always
+- 🌱 Continuous learning and improvement
+- 👥 Collaboration over competition
+</details>
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
+
+<div align="center">
+  <h3>Frontend</h3>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js" alt="Next.js"/>
+  
+  <h3>Backend</h3>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express" alt="Express"/>
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django" alt="Django"/>
+  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask" alt="Flask"/>
+  
+  <h3>Database & DevOps</h3>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
+
+<div align="center">
+  
+  <!-- GitHub Stats Card with Animation -->
+  <a href="https://github.com/justparthi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=justparthi&show_icons=true&count_private=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117&border_color=00000000&include_all_commits=true&rank_icon=github" alt="Parthiban's GitHub Stats"/>
+  </a>
+
+  <!-- Top Languages Card -->
+  <a href="https://github.com/justparthi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justparthi&layout=compact&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117&border_color=00000000&langs_count=8&hide=shell,makefile" alt="Parthiban's Top Languages"/>
+  </a>
+  
+  <!-- GitHub Streak -->
+  <a href="https://github.com/justparthi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=justparthi&theme=dark&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="Parthiban's GitHub Streak"/>
+  </a>
+</div>
+
+<!-- Contribution Graph -->
+<div align="center">
+  <a href="https://github.com/justparthi">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=justparthi&theme=react-dark&hide_border=true&bg_color=0d1117&line=6366f1&point=c9d1d9" alt="Parthiban's Contribution Graph"/>
+  </a>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Featured Projects
+
+<div align="center">
+  
+  <a href="https://github.com/justparthi/project-name-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=justparthi&repo=<repo-name-1>&border_color=6366f1&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=6366f1" />
+  </a>
+  <a href="https://github.com/justparthi/project-name-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=justparthi&repo=<repo-name-2>&border_color=6366f1&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=6366f1" />
+  </a>
+  
+  <p>View more on <a href="https://parthiban.in" target="_blank">my portfolio</a> →</p>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+```text
+JavaScript    ███████████▓░░░░░░░░░  45.23 % 
+React         ██████▓░░░░░░░░░░░░░░  25.45 % 
+Python        ████▒░░░░░░░░░░░░░░░░  15.73 % 
+CSS           ███▒░░░░░░░░░░░░░░░░░  10.12 % 
+Other         ▓░░░░░░░░░░░░░░░░░░░░  03.47 % 
+```
+<!--END_SECTION:waka-->
+
+---
+
+## <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="25"> Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/justparthi" target="_blank">
@@ -73,23 +139,22 @@ const parthiban = {
   <a href="https://www.notion.so/A-Passionate-Web-Developer-59c0eb91557a4f24a6ac3272d7c72abc/" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
   </a>
-</div>
-
-## ✨ Featured Projects
-
-<div align="center">
-  <a href="https://github.com/justparthi/project-name-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=justparthi&repo=<repo-name-1>&border_color=6366f1&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=6366f1" />
-  </a>
-  <a href="https://github.com/justparthi/project-name-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=justparthi&repo=<repo-name-2>&border_color=6366f1&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=6366f1" />
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
----
+<br>
 
+<!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=justparthi&color=6366f1&style=flat-square" alt="Profile Views" />
-  <br/>
-  <em>"The best code is no code at all. Every line of code you write is a line you'll have to maintain." - Jeff Atwood</em>
+  <img src="https://komarev.com/ghpvc/?username=justparthi&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
+
+<!-- Random Dev Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+</div>
+
+<!-- Footer Animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer"/>
