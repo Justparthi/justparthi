@@ -4,12 +4,12 @@
   </p>
 </div>
 
-<h3 style="font-family: 'Poppins', sans-serif; font-weight: 500;">🧑‍💻 About Me</h3>
+<h3 style="font-family: 'Poppins', sans-serif; font-weight: 500;">🐼💻 About Me</h3>
 
 ```javascript
 const parthiban = {
     location: "India",
-    role: "Web Developer",
+    role: "App/Web Developer",
     currentFocus: "Building amazing web experiences",
     funFact: "I love turning coffee into code ☕"
 };
