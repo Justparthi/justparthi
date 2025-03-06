@@ -14,7 +14,7 @@ class Developer {
   constructor() {
     this.name = "Parthiban";
     this.location = "India";
-    this.role = "Full-Stack Developer";
+    this.role = "App/Web Developer";
     this.languages = ["JavaScript", "TypeScript", "Python", "HTML", "CSS", "Bash"];
     this.challenge = "Building something new every week";
     this.funFact = "I debug with console.log and refuse to believe there's a better way";
