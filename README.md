@@ -29,17 +29,6 @@ const me = new Developer();
 console.log(me.sayHi());
 ```
 
-<details>
-<summary>🔎 More about me...</summary>
-<br>
-When I'm not coding, you'll find me exploring tech blogs, experimenting with new frameworks, or occasionally touching grass. I believe in writing clean, maintainable code and creating user experiences that delight.
-
-My development philosophy:
-- 💡 Simple solutions to complex problems
-- 🧪 Test-driven when necessary, coffee-driven always
-- 🌱 Continuous learning and improvement
-- 👥 Collaboration over competition
-</details>
 
 ---
 
