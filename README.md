@@ -109,23 +109,6 @@ My development philosophy:
   </a>
 </div>
 
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Featured Projects
-
-<div align="center">
-  
-  <a href="https://github.com/justparthi/project-name-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=justparthi&repo=<repo-name-1>&border_color=6366f1&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=6366f1" />
-  </a>
-  <a href="https://github.com/justparthi/project-name-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=justparthi&repo=<repo-name-2>&border_color=6366f1&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=6366f1" />
-  </a>
-  
-  <p>View more on <a href="https://parthiban.in" target="_blank">my portfolio</a> →</p>
-</div>
-
----
 
 ## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Weekly Coding Stats
 
