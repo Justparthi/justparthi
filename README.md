@@ -99,7 +99,7 @@ console.log(me.sayHi());
 </div>
 
 
-## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Weekly Coding Stats
+## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25">
 
 
 ---
