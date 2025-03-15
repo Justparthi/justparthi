@@ -99,11 +99,6 @@ console.log(me.sayHi());
 </div>
 
 
-## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25">
-
-
----
-
 ## <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="25"> Connect With Me
 
 <div align="center">
@@ -116,7 +111,7 @@ console.log(me.sayHi());
   <a href="https://www.notion.so/A-Passionate-Web-Developer-59c0eb91557a4f24a6ac3272d7c72abc/" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:justparthiban@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
