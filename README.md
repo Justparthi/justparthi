@@ -101,15 +101,6 @@ console.log(me.sayHi());
 
 ## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Weekly Coding Stats
 
-<!--START_SECTION:waka-->
-```text
-JavaScript    ███████████▓░░░░░░░░░  45.23 % 
-React         ██████▓░░░░░░░░░░░░░░  25.45 % 
-Python        ████▒░░░░░░░░░░░░░░░░  15.73 % 
-CSS           ███▒░░░░░░░░░░░░░░░░░  10.12 % 
-Other         ▓░░░░░░░░░░░░░░░░░░░░  03.47 % 
-```
-<!--END_SECTION:waka-->
 
 ---
 
