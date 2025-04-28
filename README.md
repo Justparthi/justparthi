@@ -1,8 +1,3 @@
-<!-- Animated wave -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> <strong>Building digital experiences that matter</strong>
-</div>
-
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
 ```javascript
