@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Hello%2C+I'm+Parthiban;Web+Developer;App+Developer;DB+Enthusiast;Problem+Solver;Coffee+%E2%98%95+Coder" alt="Typing SVG" />
-</div>
-
 <!-- Animated wave -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> <strong>Building digital experiences that matter</strong>
