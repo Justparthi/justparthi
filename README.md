@@ -61,7 +61,7 @@ console.log(me.sayHi());
   <a href="https://parthiban.in" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.notion.so/A-Passionate-Web-Developer-59c0eb91557a4f24a6ac3272d7c72abc/" target="_blank">
+  <a href="https://www.notion.so/Panda-s-Zone-e85cf452b1e24f74a6f992247ede7d87" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
   </a>
   <a href="mailto:justparthiban@gmail.com" target="_blank">
