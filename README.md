@@ -19,7 +19,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="55%">
+      <td width="60%" align="left" valign="top">
         
 ```javascript
 class Developer {
@@ -44,10 +44,8 @@ const me = new Developer();
 console.log(me.sayHi());
 ```
       </td>
-      <td width="45%">
-        <div align="center">
-          <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="Coding GIF">
-        </div>
+      <td width="40%" align="center" valign="middle">
+        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="Coding GIF">
       </td>
     </tr>
   </table>
