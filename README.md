@@ -153,7 +153,7 @@ console.log(me.sayHi());
 <br>
 
 <div align="center">
-   <img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20-red?style=for-the-badge" alt="Made with Love"/>
+   <img src="https://img.shields.io/badge/Made%20with-❤️%20%20-red?style=for-the-badge" alt="Made with Love"/>
 </div>
 
 <br>
