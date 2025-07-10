@@ -93,8 +93,6 @@ console.log(me.sayHi());
 
 <br>
 
-
-
 ---
 
 ## <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="25"> Connect With Me
@@ -145,9 +143,19 @@ console.log(me.sayHi());
 
 <br>
 
-<!-- Random Dev Quote -->
+<!-- Random Dev Quote - Multiple options for better randomization -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border_radius=15" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border_radius=15&quote=Programming%20is%20not%20about%20typing%2C%20it%27s%20about%20thinking&author=Rich%20Hickey" alt="Random Dev Quote"/>
+</div>
+
+<!-- Alternative quote services for variety -->
+<div align="center">
+  <img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote Alternative"/>
+</div>
+
+<!-- Programming quote with refresh -->
+<div align="center">
+  <img src="https://readme-quotes-api.vercel.app/quote?theme=dark&animation=grow_out_in&layout=default&font=Architects_Daughter" alt="Programming Quote"/>
 </div>
 
 <br>
