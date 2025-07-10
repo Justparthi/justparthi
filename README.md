@@ -1,10 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Parthiban&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Digital%20Experiences%20✨&descSize=20&descAlignY=55"/>
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Code+Enthusiast;Building+Digital+Dreams+into+Reality;Always+Learning%2C+Always+Growing;Console.log(%22Hello+World!%22)" alt="Typing Animation" />
-</div>
 
 <br>
 
